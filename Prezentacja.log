@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.11)  29 JAN 2018 22:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.11)  10 FEB 2018 13:59
 entering extended mode
 **./Prezentacja.tex
 (Prezentacja.tex
@@ -1402,7 +1402,8 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
 \@pwr@tpwidth=\skip71
  (beamerinnerthemeNewPwr.sty
-(58.04358,4.2679) 40.28934
+Vertical 0
+(3.41432,4.83694) 43.70354
 )
 (beamerouterthemeNewPwr.sty) (beamercolorthemeNewPwr.sty
 Package hyperref Info: Option `colorlinks' set `true' on input line 20.
@@ -1411,36 +1412,36 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 20.
 ofessionalfonts.sty) (Prezentacja.aux)
 \openout1 = `Prezentacja.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Try loading font information for T1+Carlito-OsF on input li
-ne 16.
+ne 20.
 
 (C:\Users\Bartosz\AppData\Roaming\MiKTeX\2.9\tex\latex\carlito\t1carlito-osf.fd
 File: T1Carlito-OsF.fd 2014/08/20 (autoinst) Font definitions for T1/Carlito-Os
 F.
 )
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 16.
+(Font)              scaled to size 10.95pt on input line 20.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1450,14 +1451,14 @@ LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* h-part:(L,W,R)=(54.45274pt, 281.28987pt, 28.45274pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=307.28987pt
+* \textwidth=281.28987pt
 * \textheight=244.6939pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
+* \oddsidemargin=-17.81725pt
+* \evensidemargin=-17.81725pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1504,7 +1505,7 @@ G,.JBIG2,.JB2,.eps]
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring ON on input line 16.
+Package hyperref Info: Link coloring ON on input line 20.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1514,9 +1515,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count193
 )
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
 
 (Prezentacja.out) (Prezentacja.out)
 \@outlinefile=\write5
@@ -1556,281 +1557,315 @@ Package caption Info: End \AtBeginDocument code.
 LaTeX Warning: Command \selectfont   has changed.
                Check if current package is valid.
 
-LaTeX Info: Redefining \selectfont on input line 16.
+LaTeX Info: Redefining \selectfont on input line 20.
 (Prezentacja.nav)
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 16.
-
-
-Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 20.
-
-
-Package hyperref Warning: Option `pdfkeywords' has already been used,
-(hyperref)                setting the option has no effect on input line 21.
-
-
-Package hyperref Warning: Option `pdfsubject' has already been used,
-(hyperref)                setting the option has no effect on input line 22.
-
-LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 28.
-LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 28.
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(Font)              scaled to size 6.0pt on input line 20.
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Hr_p1.pdf, id=14, pagebox=cropbox, 1423.0053pt x 968.40396pt>
-File: Hr_p1.pdf Graphic file (type pdf)
-<use Hr_p1.pdf>
-Package pdftex.def Info: Hr_p1.pdf  used on input line 28. on input line 28.
-Package pdftex.def Info: Requested size: 59.1904pt x 40.28934pt on input line 2
-8.
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 24.
+
+
+Package hyperref Warning: Option `pdfkeywords' has already been used,
+(hyperref)                setting the option has no effect on input line 25.
+
+
+Package hyperref Warning: Option `pdfsubject' has already been used,
+(hyperref)                setting the option has no effect on input line 26.
+
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 4.0pt on input line 28.
- [1
+(Font)              scaled to size 14.4pt on input line 32.
+LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 32.
+<Hr_p2.pdf, id=15, pagebox=cropbox, 1423.0053pt x 968.40396pt>
+File: Hr_p2.pdf Graphic file (type pdf)
+<use Hr_p2.pdf>
+Package pdftex.def Info: Hr_p2.pdf  used on input line 32. on input line 32.
+Package pdftex.def Info: Requested size: 43.70354pt x 29.73059pt on input line 
+32.
+[1
 
 {C:/Users/Bartosz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./image1_
-p1_pl.png> <./Hr_p1.pdf>] [2
+p2_pl.png> <./Hr_p2.pdf>]
+Overfull \hbox (11.18745pt too wide) in paragraph at lines 45--45
+[]\T1/Carlito-OsF/m/n/10.95 Tempo roz-woju sieci wy-mu-siªo ba-da-nia tren-dów 
+zmian w sieci. 
+ []
 
- <./image2_p1_pl.png>] [3
 
-] [4
+Overfull \hbox (3.25633pt too wide) in paragraph at lines 45--45
+[]\T1/Carlito-OsF/m/n/10.95 Wykorzystano me-tody ba-daw-cze sto-so-wane w ba-da
+-niu tem-
+ []
 
-] [5
 
-]
-LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 65.
-
-Overfull \hbox (5.4136pt too wide) in paragraph at lines 65--65
-[]\T1/Carlito-OsF/m/n/10.95 Šancuch blo-ków (ang. Block-chain) jest upo-rz¡d-ko
--wan¡ struk-tur¡, zwan¡
+Overfull \hbox (3.578pt too wide) in paragraph at lines 45--45
+\T1/Carlito-OsF/m/n/10.95 tów ist-nie-nia sieci Bit-coin, a na-st¦p-nie wy-ko-n
+ano sze-reg ana-
  []
 
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 65.
-[6
+(Font)              scaled to size 9.0pt on input line 45.
+LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
+(Font)              scaled to size 4.0pt on input line 45.
+[2
+
+ <./image2_p2_pl.png>]
+Overfull \hbox (1.4966pt too wide) in paragraph at lines 59--59
+[]\T1/Carlito-OsF/m/n/10.95 Obiektem ba-da« wy-ko-rzy-sta-nym na po-trzeby re-a
+li-za-cji pracy byªa
+ []
+
+[3
 
 ]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 94.
+LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 67.
+
+Overfull \hbox (5.73637pt too wide) in paragraph at lines 67--67
+\T1/Carlito-OsF/m/n/10.95 szego \T1/Carlito-OsF/m/it/10.95 ro-dzica \T1/Carlito
+-OsF/m/n/10.95 oraz wspól-nego przodka dla wszyst-kich blo-ków w ca-
+ []
+
+
+Overfull \hbox (11.13226pt too wide) in paragraph at lines 67--67
+\T1/Carlito-OsF/m/n/10.95 ªym ªa«-cu-chu. Bloki roz-po-znaje si¦ na pod-sta-wie
+ uni-kal-nego hash'a,
+ []
+
+[4
+
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 96.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <10.95> not availa
 ble
 (Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line
- 94.
+ 96.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 94.
-
-Overfull \hbox (15.8166pt too wide) in paragraph at lines 94--94
- [] 
- []
-
-
-Overfull \vbox (8.382pt too high) detected at line 94
- []
-
-[7
+(Font)              scaled to size 10.95pt on input line 96.
+ [5
 
 ]
-<pictures/visio/siec.png, id=57, 465.23813pt x 526.21594pt>
+<pictures/visio/siec.png, id=50, 465.23813pt x 526.21594pt>
 File: pictures/visio/siec.png Graphic file (type png)
 <use pictures/visio/siec.png>
-Package pdftex.def Info: pictures/visio/siec.png  used on input line 103. on in
-put line 103.
-Package pdftex.def Info: Requested size: 176.08952pt x 199.16928pt on input lin
-e 103.
-
-Overfull \vbox (1.95143pt too high) detected at line 103
- []
-
-[8
+Package pdftex.def Info: pictures/visio/siec.png  used on input line 105. on in
+put line 105.
+Package pdftex.def Info: Requested size: 188.66887pt x 213.39566pt on input lin
+e 105.
+ [6
 
  <./pictures/visio/siec.png>]
-<pictures/transakcje.png, id=63, 794.97pt x 310.2792pt>
+<pictures/transakcje.png, id=56, 794.97pt x 310.2792pt>
 File: pictures/transakcje.png Graphic file (type png)
 <use pictures/transakcje.png>
-Package pdftex.def Info: pictures/transakcje.png  used on input line 111. on in
-put line 111.
-Package pdftex.def Info: Requested size: 307.28987pt x 119.9384pt on input line
- 111.
- [9
+Package pdftex.def Info: pictures/transakcje.png  used on input line 113. on in
+put line 113.
+Package pdftex.def Info: Requested size: 281.28987pt x 109.79243pt on input lin
+e 113.
+ [7
 
  <./pictures/transakcje.png>]
-<pictures/graph/graph.png, id=71, 739.68346pt x 597.432pt>
+<pictures/graph/graph.png, id=64, 739.68346pt x 597.432pt>
 File: pictures/graph/graph.png Graphic file (type png)
 <use pictures/graph/graph.png>
-Package pdftex.def Info: pictures/graph/graph.png  used on input line 120. on i
-nput line 120.
-Package pdftex.def Info: Requested size: 246.59064pt x 199.16928pt on input lin
-e 120.
- [10
+Package pdftex.def Info: pictures/graph/graph.png  used on input line 122. on i
+nput line 122.
+Package pdftex.def Info: Requested size: 264.20909pt x 213.39566pt on input lin
+e 122.
+ [8
 
- <./pictures/graph/graph.png>] [11
+ <./pictures/graph/graph.png>] [9
 
 ]
-<pictures/srednica/srednica_hm.png, id=83, 512.03294pt x 426.75435pt>
+<pictures/srednica/srednica_hm.png, id=76, 512.03294pt x 426.75435pt>
 File: pictures/srednica/srednica_hm.png Graphic file (type png)
 <use pictures/srednica/srednica_hm.png>
 Package pdftex.def Info: pictures/srednica/srednica_hm.png  used on input line 
-154. on input line 154.
-Package pdftex.def Info: Requested size: 122.91406pt x 102.44267pt on input lin
-e 154.
-<pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciezki_hm.png, id=84, 512.03
+156. on input line 156.
+Package pdftex.def Info: Requested size: 126.57957pt x 105.49667pt on input lin
+e 156.
+<pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciezki_hm.png, id=77, 512.03
 294pt x 426.75435pt>
 File: pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciezki_hm.png Graphic f
 ile (type png)
 <use pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciezki_hm.png>
 Package pdftex.def Info: pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciez
-ki_hm.png  used on input line 154. on input line 154.
-Package pdftex.def Info: Requested size: 122.91406pt x 102.44267pt on input lin
-e 154.
-<pictures/srednia_centralnosc/srednia_centralnosc_hm.png, id=85, 512.03294pt x 
+ki_hm.png  used on input line 156. on input line 156.
+Package pdftex.def Info: Requested size: 126.57957pt x 105.49667pt on input lin
+e 156.
+<pictures/srednia_centralnosc/srednia_centralnosc_hm.png, id=78, 512.03294pt x 
 426.75435pt>
 File: pictures/srednia_centralnosc/srednia_centralnosc_hm.png Graphic file (typ
 e png)
 <use pictures/srednia_centralnosc/srednia_centralnosc_hm.png>
 Package pdftex.def Info: pictures/srednia_centralnosc/srednia_centralnosc_hm.pn
-g  used on input line 154. on input line 154.
-Package pdftex.def Info: Requested size: 122.91406pt x 102.44267pt on input lin
-e 154.
-<pictures/sredni_stopien_wezla/sredni_stopien_wezla_hm.png, id=86, 512.03294pt 
+g  used on input line 156. on input line 156.
+Package pdftex.def Info: Requested size: 126.57957pt x 105.49667pt on input lin
+e 156.
+<pictures/sredni_stopien_wezla/sredni_stopien_wezla_hm.png, id=79, 512.03294pt 
 x 426.75435pt>
 File: pictures/sredni_stopien_wezla/sredni_stopien_wezla_hm.png Graphic file (t
 ype png)
 <use pictures/sredni_stopien_wezla/sredni_stopien_wezla_hm.png>
 Package pdftex.def Info: pictures/sredni_stopien_wezla/sredni_stopien_wezla_hm.
-png  used on input line 154. on input line 154.
-Package pdftex.def Info: Requested size: 122.91406pt x 102.44267pt on input lin
-e 154.
- [12
+png  used on input line 156. on input line 156.
+Package pdftex.def Info: Requested size: 126.57957pt x 105.49667pt on input lin
+e 156.
+ [10
 
  <./pictures/srednica/srednica_hm.png (PNG copy)> <./pictures/srednia_dlugosc_s
 ciezki/srednia_dlugosc_sciezki_hm.png (PNG copy)> <./pictures/srednia_centralno
 sc/srednia_centralnosc_hm.png (PNG copy)> <./pictures/sredni_stopien_wezla/sred
 ni_stopien_wezla_hm.png (PNG copy)>]
-<pictures/srednica/srednica_sda.png, id=92, 512.09317pt x 312.9291pt>
+<pictures/srednica/srednica_sda.png, id=85, 512.09317pt x 312.9291pt>
 File: pictures/srednica/srednica_sda.png Graphic file (type png)
 <use pictures/srednica/srednica_sda.png>
 Package pdftex.def Info: pictures/srednica/srednica_sda.png  used on input line
- 167. on input line 167.
-Package pdftex.def Info: Requested size: 138.2795pt x 84.50153pt on input line 
-167.
-<pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciezki_sda.png, id=93, 512.0
+ 169. on input line 169.
+Package pdftex.def Info: Requested size: 126.57957pt x 77.34871pt on input line
+ 169.
+<pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciezki_sda.png, id=86, 512.0
 9317pt x 312.9291pt>
 File: pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciezki_sda.png Graphic 
 file (type png)
 <use pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciezki_sda.png>
 Package pdftex.def Info: pictures/srednia_dlugosc_sciezki/srednia_dlugosc_sciez
-ki_sda.png  used on input line 167. on input line 167.
-Package pdftex.def Info: Requested size: 138.2795pt x 84.50153pt on input line 
-167.
-<pictures/srednia_centralnosc/srednia_centralnosc_sda.png, id=94, 512.09317pt x
+ki_sda.png  used on input line 169. on input line 169.
+Package pdftex.def Info: Requested size: 126.57957pt x 77.34871pt on input line
+ 169.
+<pictures/srednia_centralnosc/srednia_centralnosc_sda.png, id=87, 512.09317pt x
  312.9291pt>
 File: pictures/srednia_centralnosc/srednia_centralnosc_sda.png Graphic file (ty
 pe png)
 <use pictures/srednia_centralnosc/srednia_centralnosc_sda.png>
 Package pdftex.def Info: pictures/srednia_centralnosc/srednia_centralnosc_sda.p
-ng  used on input line 167. on input line 167.
-Package pdftex.def Info: Requested size: 138.2795pt x 84.50153pt on input line 
-167.
-<pictures/sredni_stopien_wezla/sredni_stopien_wezla_sda.png, id=95, 512.09317pt
+ng  used on input line 169. on input line 169.
+Package pdftex.def Info: Requested size: 126.57957pt x 77.34871pt on input line
+ 169.
+<pictures/sredni_stopien_wezla/sredni_stopien_wezla_sda.png, id=88, 512.09317pt
  x 312.9291pt>
 File: pictures/sredni_stopien_wezla/sredni_stopien_wezla_sda.png Graphic file (
 type png)
 <use pictures/sredni_stopien_wezla/sredni_stopien_wezla_sda.png>
 Package pdftex.def Info: pictures/sredni_stopien_wezla/sredni_stopien_wezla_sda
-.png  used on input line 167. on input line 167.
-Package pdftex.def Info: Requested size: 138.2795pt x 84.50153pt on input line 
-167.
- [13
+.png  used on input line 169. on input line 169.
+Package pdftex.def Info: Requested size: 126.57957pt x 77.34871pt on input line
+ 169.
+ [11
 
  <./pictures/srednica/srednica_sda.png> <./pictures/srednia_dlugosc_sciezki/sre
 dnia_dlugosc_sciezki_sda.png> <./pictures/srednia_centralnosc/srednia_centralno
 sc_sda.png> <./pictures/sredni_stopien_wezla/sredni_stopien_wezla_sda.png>]
-<pictures/wartosc_transakcji/wartosc_transakcji_hm.png, id=106, 512.03294pt x 4
-26.75435pt>
+<pictures/wartosc_transakcji/wartosc_transakcji_hm.png, id=98, 512.03294pt x 42
+6.75435pt>
 File: pictures/wartosc_transakcji/wartosc_transakcji_hm.png Graphic file (type 
 png)
 <use pictures/wartosc_transakcji/wartosc_transakcji_hm.png>
 Package pdftex.def Info: pictures/wartosc_transakcji/wartosc_transakcji_hm.png 
- used on input line 179. on input line 179.
-Package pdftex.def Info: Requested size: 122.91406pt x 102.44267pt on input lin
-e 179.
-<pictures/ilosc_blokow/ilosc_blokow_hm.png, id=107, 512.03294pt x 426.75435pt>
+ used on input line 181. on input line 181.
+Package pdftex.def Info: Requested size: 126.57957pt x 105.49667pt on input lin
+e 181.
+<pictures/ilosc_blokow/ilosc_blokow_hm.png, id=99, 512.03294pt x 426.75435pt>
 File: pictures/ilosc_blokow/ilosc_blokow_hm.png Graphic file (type png)
 <use pictures/ilosc_blokow/ilosc_blokow_hm.png>
 Package pdftex.def Info: pictures/ilosc_blokow/ilosc_blokow_hm.png  used on inp
-ut line 179. on input line 179.
-Package pdftex.def Info: Requested size: 122.91406pt x 102.44267pt on input lin
-e 179.
-<pictures/roznica_czasow/roznica_czasow_hm.png, id=108, 512.03294pt x 426.75435
+ut line 181. on input line 181.
+Package pdftex.def Info: Requested size: 126.57957pt x 105.49667pt on input lin
+e 181.
+<pictures/roznica_czasow/roznica_czasow_hm.png, id=100, 512.03294pt x 426.75435
 pt>
 File: pictures/roznica_czasow/roznica_czasow_hm.png Graphic file (type png)
 <use pictures/roznica_czasow/roznica_czasow_hm.png>
 Package pdftex.def Info: pictures/roznica_czasow/roznica_czasow_hm.png  used on
- input line 179. on input line 179.
-Package pdftex.def Info: Requested size: 122.91406pt x 102.44267pt on input lin
-e 179.
-<pictures/czas_graniczny/czas_graniczny_hm.png, id=109, 512.03294pt x 426.75435
+ input line 181. on input line 181.
+Package pdftex.def Info: Requested size: 126.57957pt x 105.49667pt on input lin
+e 181.
+<pictures/czas_graniczny/czas_graniczny_hm.png, id=101, 512.03294pt x 426.75435
 pt>
 File: pictures/czas_graniczny/czas_graniczny_hm.png Graphic file (type png)
 <use pictures/czas_graniczny/czas_graniczny_hm.png>
 Package pdftex.def Info: pictures/czas_graniczny/czas_graniczny_hm.png  used on
- input line 179. on input line 179.
-Package pdftex.def Info: Requested size: 122.91406pt x 102.44267pt on input lin
-e 179.
- [14
+ input line 181. on input line 181.
+Package pdftex.def Info: Requested size: 126.57957pt x 105.49667pt on input lin
+e 181.
+ [12
 
  <./pictures/wartosc_transakcji/wartosc_transakcji_hm.png (PNG copy)> <./pictur
 es/ilosc_blokow/ilosc_blokow_hm.png (PNG copy)> <./pictures/roznica_czasow/rozn
 ica_czasow_hm.png (PNG copy)> <./pictures/czas_graniczny/czas_graniczny_hm.png 
 (PNG copy)>]
-<pictures/wartosc_transakcji/wartosc_transakcji_sda.png, id=115, 512.09317pt x 
+<pictures/wartosc_transakcji/wartosc_transakcji_sda.png, id=107, 512.09317pt x 
 312.9291pt>
 File: pictures/wartosc_transakcji/wartosc_transakcji_sda.png Graphic file (type
  png)
 <use pictures/wartosc_transakcji/wartosc_transakcji_sda.png>
 Package pdftex.def Info: pictures/wartosc_transakcji/wartosc_transakcji_sda.png
-  used on input line 190. on input line 190.
-Package pdftex.def Info: Requested size: 138.2795pt x 84.50153pt on input line 
-190.
-<pictures/ilosc_blokow/ilosc_blokow_sda.png, id=116, 512.09317pt x 312.9291pt>
+  used on input line 192. on input line 192.
+Package pdftex.def Info: Requested size: 126.57957pt x 77.34871pt on input line
+ 192.
+<pictures/ilosc_blokow/ilosc_blokow_sda.png, id=108, 512.09317pt x 312.9291pt>
 File: pictures/ilosc_blokow/ilosc_blokow_sda.png Graphic file (type png)
 <use pictures/ilosc_blokow/ilosc_blokow_sda.png>
 Package pdftex.def Info: pictures/ilosc_blokow/ilosc_blokow_sda.png  used on in
-put line 190. on input line 190.
-Package pdftex.def Info: Requested size: 138.2795pt x 84.50153pt on input line 
-190.
-<pictures/roznica_czasow/roznica_czasow_sda.png, id=117, 512.09317pt x 312.9291
+put line 192. on input line 192.
+Package pdftex.def Info: Requested size: 126.57957pt x 77.34871pt on input line
+ 192.
+<pictures/roznica_czasow/roznica_czasow_sda.png, id=109, 512.09317pt x 312.9291
 pt>
 File: pictures/roznica_czasow/roznica_czasow_sda.png Graphic file (type png)
 <use pictures/roznica_czasow/roznica_czasow_sda.png>
 Package pdftex.def Info: pictures/roznica_czasow/roznica_czasow_sda.png  used o
-n input line 190. on input line 190.
-Package pdftex.def Info: Requested size: 138.2795pt x 84.50153pt on input line 
-190.
-<pictures/czas_graniczny/czas_graniczny_sda.png, id=118, 512.09317pt x 312.9291
+n input line 192. on input line 192.
+Package pdftex.def Info: Requested size: 126.57957pt x 77.34871pt on input line
+ 192.
+<pictures/czas_graniczny/czas_graniczny_sda.png, id=110, 512.09317pt x 312.9291
 pt>
 File: pictures/czas_graniczny/czas_graniczny_sda.png Graphic file (type png)
 <use pictures/czas_graniczny/czas_graniczny_sda.png>
 Package pdftex.def Info: pictures/czas_graniczny/czas_graniczny_sda.png  used o
-n input line 190. on input line 190.
-Package pdftex.def Info: Requested size: 138.2795pt x 84.50153pt on input line 
-190.
-[15
+n input line 192. on input line 192.
+Package pdftex.def Info: Requested size: 126.57957pt x 77.34871pt on input line
+ 192.
+ [13
 
  <./pictures/wartosc_transakcji/wartosc_transakcji_sda.png> <./pictures/ilosc_b
 lokow/ilosc_blokow_sda.png> <./pictures/roznica_czasow/roznica_czasow_sda.png> 
-<./pictures/czas_graniczny/czas_graniczny_sda.png>] [16
+<./pictures/czas_graniczny/czas_graniczny_sda.png>]
+Overfull \hbox (7.62206pt too wide) in paragraph at lines 205--205
+\T1/Carlito-OsF/m/n/10.95 du-»ej ilo-±ci no-wych ad-re-sów oraz wzrost re-ali-z
+o-wa-nych trans-
+ []
+
+[14
+
+]
+Overfull \hbox (0.73344pt too wide) in paragraph at lines 215--215
+\T1/Carlito-OsF/m/n/10.95 nicz-nych jed-no-znacz-nie wska-zuje na zwi¦k-sza-j¡c
+e si¦ tempo
+ []
+
+[15
+
+]
+Overfull \hbox (2.1876pt too wide) in paragraph at lines 226--226
+[]\T1/Carlito-OsF/m/n/10.95 Mo»liwe jest stwo-rze-nie prób roz-po-czy-na-j¡-cyc
+h si¦ od trans-
+ []
+
+[16
 
 ] [17
 
@@ -1844,32 +1879,32 @@ lokow/ilosc_blokow_sda.png> <./pictures/roznica_czasow/roznica_czasow_sda.png>
 \tf@snm=\write8
 \openout8 = `Prezentacja.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
-
-(Prezentacja.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+ (Prezentacja.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
 Package rerunfilecheck Info: File `Prezentacja.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23447 strings out of 493312
- 451345 string characters out of 3138892
- 627123 words of memory out of 3000000
- 26376 multiletter control sequences out of 15000+200000
- 69751 words of font info for 49 fonts, out of 3000000 for 9000
+ 23446 strings out of 493312
+ 451242 string characters out of 3138892
+ 627076 words of memory out of 3000000
+ 26372 multiletter control sequences out of 15000+200000
+ 70810 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,13n,100p,2094b,665s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,14n,100p,807b,666s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Bartosz/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/carlito/crlt_ynp
 zot.enc} <C:\Users\Bartosz\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\ectt1095.pk><C:/Users/Bartosz/AppData/Roaming/MiKTeX/2.9/fonts/type1/ty
 poland/carlito/Carlito-Bold.pfb><C:/Users/Bartosz/AppData/Roaming/MiKTeX/2.9/fo
 nts/type1/typoland/carlito/Carlito-Italic.pfb><C:/Users/Bartosz/AppData/Roaming
-/MiKTeX/2.9/fonts/type1/typoland/carlito/Carlito.pfb>
-Output written on Prezentacja.pdf (17 pages, 4074802 bytes).
+/MiKTeX/2.9/fonts/type1/typoland/carlito/Carlito.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Prezentacja.pdf (17 pages, 4075987 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
+ 190 PDF objects out of 1000 (max. 8388607)
  35 named destinations out of 1000 (max. 500000)
  153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
